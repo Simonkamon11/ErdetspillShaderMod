@@ -9,7 +9,7 @@ Erdetspil high Graphics mod
 Download the Erdetspill Modloader hy Goglesser: https://github.com/Goglesser/Erdetmodloader/releases 
 
 Move the files in the zip-file to your erdetspill steamapp folder
-(usually located at "/Program Files (x86)/Steam/steamapps/common/erdetspill")
+(usually located at "\Program Files (x86)\Steam\steamapps\common\erdetspill")
 
 To download, run the INSTALL_MODLOADER.bat file
 
