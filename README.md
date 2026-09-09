@@ -11,7 +11,7 @@ Download the Erdetspill Modloader hy Goglesser: https://github.com/Goglesser/Erd
 Move the files in the zip-file to your erdetspill steamapp folder
 (usually located at "/Program Files (x86)/Steam/steamapps/common/erdetspill")
 
-To download, run the INTSALL_MODLOADER.bat
+To download, run the INTSALL_MODLOADER.bat file
 
 ### Graphics mod
 
