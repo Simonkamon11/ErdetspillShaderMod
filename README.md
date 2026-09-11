@@ -1,6 +1,6 @@
-# ErdetspillGraphicsMod
+# ErdetspillShaderMod
 
-Erdetspil high Graphics mod
+Erdetspill shader mod
 
 ## Intructions
 
@@ -13,9 +13,9 @@ Move the files in the zip-file to your erdetspill steamapp folder
 
 Install by running the INSTALL_MODLOADER.bat file
 
-### Graphics mod
+### Shader mod
 
-Download the Graphics mod
+Download the ErdetShader mod
 
 Place the zip file (don't un-zip) in the "mods" folder
 
