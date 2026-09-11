@@ -2,7 +2,7 @@
 
 Erdetspill shader mod
 
-## Intructions
+## Instructions
 
 ### Modloader
 
