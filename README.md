@@ -19,4 +19,4 @@ Download the ErdetShader mod
 
 Place the zip file (don't un-zip) in the "mods" folder
 
-Toggle the Shader mod in the Shader settings the mod added to Erdetspill (on by default)
+Toggle the Shader mod in the Shader settings the mod added to Erdetspill (off by default)
